@@ -23,6 +23,7 @@
 .heroes li.selected {
   background-color: rgb(123, 185, 201);
   color: yellow;
+  left: 1em;
 }
 .heroes li.selected:hover {
   background-color: #505050;
